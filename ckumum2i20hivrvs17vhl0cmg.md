@@ -147,5 +147,3 @@ console.log(found); //1
 Thanks for following along.
 
 I hope you learned something useful. Kindly follow me on [Twitter](https://twitter.com/alege_dev) if you are interested in content like this.
-
-okay thanks.
