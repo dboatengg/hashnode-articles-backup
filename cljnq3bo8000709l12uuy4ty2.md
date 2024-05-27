@@ -7,7 +7,6 @@ cuid: cljnq3bo8000709l12uuy4ty2
 slug: getting-started-with-rest-apis
 canonical: https://dev.to/dboatengx/getting-started-with-rest-apis-4kh
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688378405792/60692366-9a9d-401a-9f01-b9366b71a801.jpeg
-tags: programming-blogs, apis, beginners, rest-api
 
 ---
 
